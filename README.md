@@ -8,12 +8,12 @@ The undead and the monsters roamed the land, while the living struggled to survi
 
 
 
-🔗 Access the website to get started: https://rpg.wadcon.com.au/
-
-
-
 ## THE GAME
 
 
 Blighted Age is a game about a group of adventurers attempting to survive and prosper in a hellish world overrun by corruption, demons and a mystical ‘rot.’ The rot infects and corrupts most things, but some are ‘blessed’ by it, gaining new powers and rising from the dead. 
 
+
+<p>
+🔗 Access the website to get started: https://rpg.wadcon.com.au/
+</p>
