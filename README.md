@@ -8,10 +8,8 @@ This repo plays backup to all the markdown files within the Obsidian.md Vault th
 
 🔗 Access the website to get started: https://rpg.wadcon.com.au/
 
-<br>
-<br>
-</br>
-</br>
+
+
 ## THE GAME
 
 
